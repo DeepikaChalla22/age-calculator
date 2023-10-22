@@ -1,0 +1,47 @@
+/* styles.css */
+
+/* Apply some basic styling to the whole app */
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  /* Style the heading */
+  h1 {
+    color: #333;
+  }
+  
+  /* Style the input and button */
+  input[type="date"] {
+    padding: 5px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Style the age display */
+  p {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #333;
+  }
+  
+  #ans{
+    font-size: 28px;
+  }
+  .btn{
+    margin-top: 20px;
+  }
